@@ -65,7 +65,7 @@
     "@actions/github": "^6.0.0",
     "ignore": "5.3.1",
     "lodash.escaperegexp": "4.1.2",
-    "simple-git": "3.24.0"
+    "simple-git": "3.25.0"
   },
   "devDependencies": {
     "@types/jest": "^29.5.12",
